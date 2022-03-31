@@ -1,0 +1,20 @@
+{
+  "name": "fingerprint",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "country-data": "^0.0.31",
+    "express": "^4.17.3",
+    "geoip-lite": "^1.4.4",
+    "os": "^0.1.2",
+    "proxy-verifier": "^0.5.0",
+    "useragent": "^2.3.0"
+  }
+}

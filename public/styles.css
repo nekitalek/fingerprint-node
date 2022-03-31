@@ -1,0 +1,22 @@
+@import url('https://fonts.googleapis.com/css2?family=Courier+Prime&display=swap');
+html {
+    background-color: #3b3f41;
+}
+#header{
+    font-family: 'Courier Prime', monospace;
+    text-align: center;
+}
+#logo{
+    max-width: 30%;
+    max-height: 30%;
+    float: right;
+    margin-top: -55px;
+}
+
+.main{
+    font-family: 'Courier Prime', monospace;
+    text-align: left;
+    margin-left: 15px;
+    font-size: 25px;
+    margin-bottom: -15px;
+}
